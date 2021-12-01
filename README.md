@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![jwwthu's github stats](https://github-readme-stats.vercel.app/api?username=jwwthu&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jwwthu/jwwthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
